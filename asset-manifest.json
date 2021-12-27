@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-threejs-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-threejs-gh-pages/static/js/main.80cbe4fa.js",
+    "static/js/787.033d7df5.chunk.js": "/react-threejs-gh-pages/static/js/787.033d7df5.chunk.js",
+    "static/media/logo.svg": "/react-threejs-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-threejs-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/react-threejs-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.80cbe4fa.js.map": "/react-threejs-gh-pages/static/js/main.80cbe4fa.js.map",
+    "787.033d7df5.chunk.js.map": "/react-threejs-gh-pages/static/js/787.033d7df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80cbe4fa.js"
+  ]
+}
